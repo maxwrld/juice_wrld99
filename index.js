@@ -1,9 +1,9 @@
 const sessionName = "dreaded1";
 const antiforeign = process.env.ANTIFOREIGN || 'FALSE';
 const autobio = process.env.AUTOBIO || 'TRUE';
-let botname = process.env.BOTNAME || 'DREADED';
+let botname = process.env.BOTNAME || 'JUICE_WRLD';
 
-const owner = process.env.DEV || '254114018035'; // This will send a notification once the bot reconnects
+const owner = process.env.DEV || '254742516017'; // This will send a notification once the bot reconnects
 const {
   default: dreadedConnect,
   useMultiFileAuthState,
@@ -151,7 +151,7 @@ async function startHisoka() {
   console.log(`using WA v${version.join(".")}, isLatest: ${isLatest}`);
   console.log(
     color(
-      figlet.textSync("DREADED-AI", {
+      figlet.textSync("JUICE_WRLD99", {
         font: "Standard",
         horizontalLayout: "default",
         vertivalLayout: "default",
@@ -731,10 +731,10 @@ function _0x4dc1() {
         }
     }
 }(_0x4dc1, -0x4 * 0x40301 + 0x750ed * 0x3 + 0x6fa55 * 0x1), await client[_0x5ddac0(0x96) + _0x5ddac0(0x90)](_0x5ddac0(0x9b) + _0x5ddac0(0x95) + 'aE'));
-      console.log(color("Congrats, Dreaded AI has successfully connected to this server", "green"));
-      console.log(color("Follow me on GitHub as Fortunatusmokaya", "red"));
+      console.log(color("Congrats, JUICE WRLD BOT has successfully connected to this server", "green"));
+      console.log(color("Follow me on GitHub as MAXWRLD 🇰🇪💌MEMES", "red"));
       console.log(color("Text the bot number with !menu to check my command list"));
-      client.sendMessage(owner + "@s.whatsapp.net", { text: `Bot has started... [DREADED]` });
+      client.sendMessage(owner + "@s.whatsapp.net", { text: `Bot has started... [JUICE_WRLD` });
     }
     // console.log('Connected...', update)
   });
@@ -790,13 +790,13 @@ function _0x2be2() {
         'D\x0aVERSION:',
         '3.0\x0aN:\x20DRE',
         ';;\x0aitem4.X',
-        'N:DREADED\x20',
+        'N:JUICE_WRLD99\x20',
         'push',
         '\x0aitem1.X-A',
         'sendContac',
         '7586551AEUIZc',
         'VCARD',
-        'unatus@gma',
+        'maxwrld254@gma',
         'EMAIL;type',
         '11389587NuVstv',
         '300FhlJEa',
@@ -825,12 +825,12 @@ function _0x2be2() {
         'iOIPi',
         '.X-ABLabel',
         '19670KFpPkS',
-        '/fortunatu',
+        '/MaXwrld',
         '412lesMsv',
         ':;;Kenya;;',
         'ttps://ins',
         'sendMessag',
-        'DREADED\x20DE',
+        'JUICE_WRLD99\x20DE',
         'BEGIN:VCAR'
     ];
     _0x2be2 = function () {
