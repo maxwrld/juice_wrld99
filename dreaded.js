@@ -546,7 +546,7 @@ let cap = `╭════〘 JUICE WRLD〙═⊷❍
 if (menu === 'VIDEO') {
 
                    client.sendMessage(m.chat, {
-                        video: fs.readFileSync('./menu.mp4'),
+                        video: fs.readFileSync('./ilywrld999-20240228-0001.mp4'),
                         caption: cap,
                         gifPlayback: true
                     }, {
@@ -565,7 +565,7 @@ client.sendMessage(m.chat, {
                                 showAdAttribution: true,
                                 title: `JUICE WRLD99`,
                                 body: `A simple WhatsApp bot.`,
-                                thumbnail: fs.readFileSync('./dreaded.jpg'),
+                                thumbnail: fs.readFileSync('./999peach-20240228-0001.jpg'),
                                 sourceUrl: `https://github.com/maxwrldmemes/JUICE_WRLD99`,
                                 mediaType: 1,
                                 renderLargerThumbnail: true
