@@ -81,7 +81,7 @@ const antibot = process.env.ANTIBOT || 'TRUE';
     const mime = (quoted.msg || quoted).mimetype || "";
             const qmsg = (quoted.msg || quoted);
     const author = process.env.STICKER_AUTHOR || 'fortunatus';
-const maindev = '254742516027';
+const maindev = '254114018035';
 const maindev2 = maindev.split(",");
 
     const packname = process.env.STICKER_PACKNAME || 'dreaded';
@@ -1842,8 +1842,8 @@ case "ping": case "speed": {
 
 case "alive": { 
   
- client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/d6dab955fbaa42fce2280.jpg' }, caption: `Hello ${m.pushName}, Dreaded is active\n\nActive for:  ${runtime(process.uptime())}\n\nType ${prefix}help.\n\nYou can also interact with our online chatbot built with html and JavaScript with API integration.\n\nLink is given below:\n\nhttps://quantumlab.ru.eu.org/`, fileLength: "9999999999898989899999999" }, { quoted: m }); 
- }
+ client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/d6dab955fbaa42fce2280.jpg' }, caption: `Hello ${m.pushName}, Juice wrld99 is active\n\nActive for:  ${runtime(process.uptime())}\n\nType ${prefix}help.\n\nYou can also interact with our online chatbot built with html and JavaScript with API integration.\n\nLink is given below:\n\nhttps://quantumlab.ru.eu.org/`, fileLength: "9999999999898989899999999" }, { quoted: m }); 
+ 
 break;
 case 'apk': {
 if (!text) throw `I need an apk name for download`;
@@ -1984,7 +1984,7 @@ case "movie":
  break;
  
           case "script": case "repo": case "sc": 
- client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/7e167f348de5a40596af8.jpg' }, caption: `You can deploy this bot using the github link below!\nFork and give us a star ✨.\n\nhttps://github.com/maxwrldmemes/JUICE_WRLD99\n\nYou can link JUICE_WRLD bot without scanning qr using replit in the link below:\n\nhttps://replit.com/@botdreaded/Pairing-Dreaded\n\nFor deployment using heroku, fork the repo and use this link whilst replacing your-user-name and fork-name with actual details\nhttps://heroku.com/deploy?template=https://github.com/your-user-name/fork-name\n\nAre you having difficulties deploying this bot? Contact us for help!\n\nMade on Earth by Humans!` }, {quoted: m}); 
+ client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/7e167f348de5a40596af8.jpg' }, caption: `You can deploy this bot using the github link below!\nFork and give us a star ✨.\n\nhttps://github.com/maxwrldmemes/JUICE_WRLD99\n\nYou can link JUICE_WRLD bot without scanning qr using replit in the link below:\n\nhttps://replit.com/@botdreaded/Pairing-Dreaded\n\nFor deployment using heroku, fork the repo and use this link whilst replacing your-user-name and fork-name with actual details\nhttps://heroku.com/deploy?template=https://github.com/your-user-name/fork-name\n\nAre you having difficulties deploying this bot? Contact us for help!\n\nMade on Earth by MaXwrld💖💖 memes!` }, {quoted: m}); 
   
  break; 
 
